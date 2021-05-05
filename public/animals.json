@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Mandu",
+        "type": "cat",
+        "description": "amazing",
+        "age": 9
+    },
+    {
+        "name": "Mia",
+        "type": "cat",
+        "description": "black",
+        "age": 9
+    },
+    {
+        "name": "Leeloo",
+        "type": "dog",
+        "description": "growing",
+        "age": 1
+    },
+    {
+        "name": "Toothless",
+        "type": "dragon",
+        "description": "trained",
+        "age": 14
+    },
+    {
+        "name": "ScoobyDoo",
+        "type": "dog",
+        "description": "wondering",
+        "age": 58
+    },
+    {
+        "name": "Horsey",
+        "type": "horse",
+        "description": "horsing",
+        "age": 10
+    }
+]
